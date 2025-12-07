@@ -66,6 +66,10 @@ TriggerGlitch(0.2f);       // Glitch effect
 ```
 
 -----
+### Preview:
+![Screenshot Aplikasi](Image.png)
+![Screenshot Aplikasi](Settings.png)
+![Screenshot Aplikasi](Setting.png)
 
 ## PRESET RECOMMENDATIONS:
 
